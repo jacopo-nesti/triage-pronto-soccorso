@@ -9,7 +9,7 @@ Applicazione da console in C++ per la registrazione dei pazienti e il triage.
 - Lista pazienti
 
 ## Compilazione
-g++ nomefile.cpp -o triage
+g++ PS.cpp -o triage
 
 ## Stato del progetto
 Work in progress. Da completare: controllo degli input in tutte le sezioni, visualizzazione di punteggio e codice nella lista pazienti.
